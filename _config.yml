@@ -1,0 +1,28 @@
+name: 'Andrew Crittenden '
+favicon: null
+layout_spectrum: 0.91578573663719
+typography_spectrum: 0.13401078223250806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8864163199905306
+  lightness: 0.4726067543961108
+  saturation: 0.9795094816945493
+  rhythmicContrast: 0.671338009648025
+purpose: []
